@@ -1,0 +1,1 @@
+print("Sasaki Kojiro")
